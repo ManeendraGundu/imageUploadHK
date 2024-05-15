@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "114582733651",
+    "firebase_url": "https://fireflutternew.firebaseio.com",
+    "project_id": "fireflutternew",
+    "storage_bucket": "fireflutternew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114582733651:android:0677ba4b345eb36d4a17a6",
+        "android_client_info": {
+          "package_name": "com.example.tratcncr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114582733651-5fijoiu4psneo863dr8eq6mtk0sl4npq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATj_WFIWozgLi4fMU7qw-z4wx4QLcE3Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114582733651-5fijoiu4psneo863dr8eq6mtk0sl4npq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
